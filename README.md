@@ -1,5 +1,9 @@
 # SUNFALL: Neon Harbor
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/D0mest0s999/gta6-open-world/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/D0mest0s999/gta6-open-world/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 A top-down 2D open-world crime game for the browser, built for the
 make.fun **gta6-01 "Make GTA 6"** bounty. Vanilla JavaScript and canvas —
 no libraries, no build step, no network requests. Every asset is a file
@@ -80,3 +84,7 @@ Finish the story and the city stays yours — delivery jobs pay forever.
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=3eb465ac&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
